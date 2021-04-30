@@ -1,5 +1,5 @@
-# JShell
-A shell program made with Java as an assignment for CSCB07 in a group of 4. 
+# Shell Program
+A shell program made with Java as an assignment in a group of 4. 
 
 ## Possible Commands
 * cd - Change Directory
